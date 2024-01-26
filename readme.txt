@@ -1,1 +1,1 @@
-We will publicly release the dataset after the publication of the paper.
+We will release the dataset after the publication of the paper.
